@@ -52,6 +52,7 @@ body {
 }
 .image {
   padding: 20px;
+  margin-bottom: 30px;
 }
 
 .section__aboutContent {
@@ -71,6 +72,7 @@ body {
 .desc {
   display: flex;
   padding: 40px;
+  margin-bottom: 290px;
 }
 .section__aboutTitle {
   padding-right: 70px;
